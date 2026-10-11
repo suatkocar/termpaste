@@ -49,6 +49,8 @@ That is the whole trick.
 
 A real paste, the menu bar and the Settings window, in 25 seconds:
 
+https://github.com/user-attachments/assets/9c892b45-f464-4e9e-adc0-f128fd0a4b23
+
 ## Menu bar and Settings
 
 <p align="center">
