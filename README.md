@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="docs/images/demo.gif" width="760" alt="Pressing ⌘V with a screenshot on the clipboard attaches it to Claude Code as [Image #1]"><br>
-  <a href="https://github.com/suatkocar/termpaste/releases/download/v0.3.0/TermPaste-tour.mp4">▶ Watch the 25-second tour</a>
+  <a href="#tour">▶ Watch the 25-second tour</a>
 </p>
 
 ## The problem
@@ -44,6 +44,10 @@ That is the whole trick.
   app macOS names and what usually ends it.
 - **Private by design.** It looks only at the clipboard's advertised types, never at image bytes,
   text or terminal output, and it makes no network connections.
+
+## Tour
+
+A real paste, the menu bar and the Settings window, in 25 seconds:
 
 ## Menu bar and Settings
 
