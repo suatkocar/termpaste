@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- TermPaste app icon. Body follows the macOS 1024-pixel grid: 824 x 824 at 100,100,
+       continuous corners of radius 185.4, nothing outside it, so macOS shows the icon as drawn. -->
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3b414e"/><stop offset="1" stop-color="#14161b"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fd0ff"/><stop offset="1" stop-color="#3d8bfd"/>
+    </linearGradient>
+  </defs>
+  <path d="M383.41 100.00 L640.59 100.00 C722.19 100.00 763.00 100.00 799.79 112.14 C854.88 134.78 889.22 169.12 911.86 224.21 C924.00 261.00 924.00 301.81 924.00 383.41 L924.00 640.59 C924.00 722.19 924.00 763.00 911.86 799.79 C889.22 854.88 854.88 889.22 799.79 911.86 C763.00 924.00 722.19 924.00 640.59 924.00 L383.41 924.00 C301.81 924.00 261.00 924.00 224.21 911.86 C169.12 889.22 134.78 854.88 112.14 799.79 C100.00 763.00 100.00 722.19 100.00 640.59 L100.00 383.41 C100.00 301.81 100.00 261.00 112.14 224.21 C134.78 169.12 169.12 134.78 224.21 112.14 C261.00 100.00 301.81 100.00 383.41 100.00 Z" fill="url(#body)"/>
+  <path d="M381.56 103.50 L642.44 103.50 C722.50 103.50 762.54 103.50 798.64 115.41 C852.68 137.62 886.38 171.32 908.59 225.36 C920.50 261.46 920.50 301.50 920.50 381.56 L920.50 642.44 C920.50 722.50 920.50 762.54 908.59 798.64 C886.38 852.68 852.68 886.38 798.64 908.59 C762.54 920.50 722.50 920.50 642.44 920.50 L381.56 920.50 C301.50 920.50 261.46 920.50 225.36 908.59 C171.32 886.38 137.62 852.68 115.41 798.64 C103.50 762.54 103.50 722.50 103.50 642.44 L103.50 381.56 C103.50 301.50 103.50 261.46 115.41 225.36 C137.62 171.32 171.32 137.62 225.36 115.41 C261.46 103.50 301.50 103.50 381.56 103.50 Z" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="7"/>
+  <g transform="translate(100 100) scale(7.103448) translate(-6 -6)">
+    <rect x="20" y="26" width="74" height="58" rx="9" fill="#0b0d10" stroke="#4b525e" stroke-width="2"/>
+    <circle cx="30" cy="35" r="2.8" fill="#ff5f57"/>
+    <circle cx="38.5" cy="35" r="2.8" fill="#febc2e"/>
+    <circle cx="47" cy="35" r="2.8" fill="#28c840"/>
+    <path d="M31 51 l8 6.5 -8 6.5" fill="none" stroke="#7ee2a8" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="44" y="61" width="15" height="3.6" rx="1.8" fill="#7ee2a8"/>
+    <g transform="rotate(-8 86 84)">
+      <rect x="62" y="60" width="48" height="40" rx="6" fill="#ffffff"/>
+      <rect x="66.5" y="64.5" width="39" height="27" rx="3" fill="url(#sky)"/>
+      <circle cx="97" cy="71" r="3.8" fill="#ffd54a"/>
+      <path d="M66.5 91.5 L78 78 L85 85 L92 78.5 L105.5 91.5 Z" fill="#2fbf71"/>
+    </g>
+  </g>
+</svg>
